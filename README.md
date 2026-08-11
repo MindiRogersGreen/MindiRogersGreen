@@ -1,8 +1,6 @@
-Hey 👋, I'm Mindi.
+Hey 👋, I'm Mindi (she/they).
 
   Systems thinker && Infosec nerd.
-  Making complex systems work for 23+ years, now making them harder to break.
-
-  she/they
+  Making complex systems work for 23+ years, now focused on making them harder to break.
   
-  [chaoticdebris.dev](https://chaoticdebris.dev)
+[chaoticdebris.dev](https://chaoticdebris.dev)
