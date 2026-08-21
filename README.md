@@ -1,10 +1,9 @@
 Hey 👋, I'm Mindi (she/they).
 
-  systems thinker && infosec punk
-  
-  I've spent decades making complex systems work. I'm now focused on making them harder to break.
+systems thinker && infosec practitioner
 
-  passionate about
-    information security .:. privacy issues .:. automation .:. risk .:. reliability
+decades making complex systems work, and making them more secure
+
+privacy .:. ethics .:. risk .:. governance .:. compliance
   
 [chaoticdebris.dev](https://chaoticdebris.dev)
